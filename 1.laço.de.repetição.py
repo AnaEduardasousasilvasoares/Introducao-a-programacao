@@ -7,4 +7,5 @@ for i in range (20):
     else: 
         contNegativo+=1
 print("A soma dos valores positivos é:",somaValor)
+
 print("A quantidade de valores negativos é:",contNegativo)
